@@ -28,3 +28,13 @@ function findEvenNumbers(arr) {
     return evenNumbers;
 }
 ```
+
+## Work Experience
+- Project: Web application for cv parssing and analysis with subsequent visualization of key data on the cleint part.
+- Project: Casual game in JavaScript with using Vite.
+
+## Education
+BSUIR
+
+## English Language
+Level: Intermediate 
